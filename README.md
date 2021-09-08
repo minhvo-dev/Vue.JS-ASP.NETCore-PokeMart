@@ -2,12 +2,6 @@
 
 A simple full-stack web application written for mobile platform that allows users to register, order Pokémon and search for nearest stores.   
 
-Demo: **https://pokemart.azurewebsites.net** _(should be viewed in mobile footprint)_.    
-The following account is already created for testing purpose: 
-- Email: `guest@email.com`
-- Password: `PikachuIsOverrated`
-
-
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Resource](#resource)
